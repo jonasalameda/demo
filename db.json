@@ -1,14 +1,92 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+      "authorId": 1,
+      "articleId": 101,
+      "articleTitle": "Exploring the Benefits of Remote Work in 2025",
+      "articleCompletionStatus": true
+  },
+  {
+      "authorId": 2,
+      "articleId": 102,
+      "articleTitle": "A Beginner's Guide to Urban Gardening",
+      "articleCompletionStatus": false
+  },
+  {
+      "authorId": 3,
+      "articleId": 103,
+      "articleTitle": "The Rise of Electric Vehicles: Trends and Predictions",
+      "articleCompletionStatus": true
+  },
+  {
+      "authorId": 4,
+      "articleId": 104,
+      "articleTitle": "Understanding Blockchain Beyond Cryptocurrency",
+      "articleCompletionStatus": true
+  },
+  {
+      "authorId": 5,
+      "articleId": 105,
+      "articleTitle": "Healthy Meal Prep Ideas for Busy Professionals",
+      "articleCompletionStatus": false
+  },
+  {
+      "authorId": 1,
+      "articleId": 106,
+      "articleTitle": "Cybersecurity Best Practices for Small Businesses",
+      "articleCompletionStatus": true
+  },
+  {
+      "authorId": 6,
+      "articleId": 107,
+      "articleTitle": "Traveling on a Budget: Top Destinations in 2025",
+      "articleCompletionStatus": false
+  },
+  {
+      "authorId": 7,
+      "articleId": 108,
+      "articleTitle": "Mental Health Awareness: Coping Strategies and Resources",
+      "articleCompletionStatus": true
+  },
+  {
+      "authorId": 8,
+      "articleId": 109,
+      "articleTitle": "Innovations in Artificial Intelligence for Healthcare",
+      "articleCompletionStatus": true
+  },
+  {
+      "authorId": 9,
+      "articleId": 110,
+      "articleTitle": "Sustainable Fashion: Eco-Friendly Brands to Watch",
+      "articleCompletionStatus": false
+  },
+  {
+      "authorId": 2,
+      "articleId": 111,
+      "articleTitle": "Mastering Time Management: Techniques for Productivity",
+      "articleCompletionStatus": true
+  },
+  {
+      "authorId": 3,
+      "articleId": 112,
+      "articleTitle": "The Impact of Social Media on Youth Behavior",
+      "articleCompletionStatus": false
+  },
+  {
+      "authorId": 4,
+      "articleId": 113,
+      "articleTitle": "Advances in Renewable Energy Technologies",
+      "articleCompletionStatus": true
+  },
+  {
+      "authorId": 5,
+      "articleId": 114,
+      "articleTitle": "DIY Home Improvement Projects for Spring",
+      "articleCompletionStatus": true
+  },
+  {
+      "authorId": 6,
+      "articleId": 115,
+      "articleTitle": "Financial Planning: Building Wealth in Your 30s",
+      "articleCompletionStatus": false
   }
-}
+]
